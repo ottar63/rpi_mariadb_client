@@ -1,2 +1,2 @@
 # rpi_mariadb_client
-Dockerfile for mariadb client on raspberry pi
+Testing out MariaDb on Raspberry pi Docker swarm
